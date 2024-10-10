@@ -49,6 +49,9 @@ Otros comandos útiles son los siguientes:
 
 ## Información Adicional
 
+Este es el link para descargarlo desde testflight, pero tuvimos que bajar la app porque no seguimos pagando el dominio y la base de datos.
+https://testflight.apple.com/join/gW1TEuEf
+
 Para más información, se puede leer las siguientes documentaciones:
 * [Expo](https://docs.expo.dev/)
 * [React Native](https://reactnative.dev/docs/getting-started)
